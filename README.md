@@ -1,10 +1,10 @@
 # covid19bangla
 Bangla (Bengali) language flyer and poster for COVID-19 pandemic.
 
-POSTER: covid-poster-a4-single-sided.pdf
+POSTER: [covid-poster-a4-single-sided.pdf](covid-poster-a4-single-sided.pdf)
 print this on A4 paper, single-sided. 
 
-FLYER: covid-flyer-a4-double-sided.pdf
+FLYER: [covid-flyer-a4-double-sided.pdf](covid-flyer-a4-double-sided.pdf)
 print this on A4 paper, double-sided. Cut pages in half on the dashed line, and fold
 each half page in half to make a 4-page flyer.  (The first page begins with
 handwashing instructions.)
