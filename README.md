@@ -22,16 +22,15 @@ The Powerpoint file has four slides, each 1/4 of an A4 page.
 After editing, save the Powerpoint file as PNG images.  
 
 For a poster, these should be laid out
+```
 1 2
 3 4
+```
 
 For a flyer, these should be laid out
-page 1: 
-4 1   
-2 3 
-page 2: 
-2 3 
-4 1   
+```
+page 1:  4 1    page 2:  2 3 
+         2 3             4 1   
 
 In this way, double-sided pages will make two flyers when cut in half horizontally.
 
